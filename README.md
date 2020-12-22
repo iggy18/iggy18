@@ -1,9 +1,9 @@
 ### Hi there 👋
+Thanks  for popping by!
 
 - 🌱 I’m currently learning: docker and Django rest API framework
-- 👯 I’m looking to collaborate on: seeking projects for a good cause I can donate my skills and time to!
 
-Social media:
+Social media: add me!
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/iggy18/?hl=en)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/seth-mcfeeters/)
