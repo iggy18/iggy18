@@ -3,7 +3,7 @@ Thanks  for popping by!
 
 - 🌱 I’m currently learning: docker and Django rest API framework
 
-[![seth's github stats](https://github-readme-stats.vercel.app/api?user=iggy18)](https://github.com/anuraghazra/github-readme-stats)
+[![Seth's github stats](https://github-readme-stats.vercel.app/api?username=iggy18)](https://github.com/anuraghazra/github-readme-stats)
 
 Social media: add me!
 
