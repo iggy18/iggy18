@@ -3,6 +3,8 @@ Thanks  for popping by!
 
 - 🌱 I’m currently learning: docker and Django rest API framework
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?iggy18=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 Social media: add me!
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/iggy18/?hl=en)
