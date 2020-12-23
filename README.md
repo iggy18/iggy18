@@ -17,3 +17,6 @@ What I know so far:
 what I'm looking forward to learning:
 
 <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /><img src ="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /><img src ="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /><img src ="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /><img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+getting smarter every day on Codewars:
+<img src = "https://www.codewars.com/users/iggy18/badges/large" />
