@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thanks  for popping by!
 
-- 🌱 I’m currently learning: docker and Django rest API framework
+- 🌱 I’m currently learning: parting with the development server and using :sparkles: Gunicorn :sparkles:
 
 [![Seth's github stats](https://github-readme-stats.vercel.app/api?username=iggy18)](https://github.com/anuraghazra/github-readme-stats)
 
