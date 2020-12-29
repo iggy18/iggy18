@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thanks  for popping by!
 
-- 🌱 I’m currently learning: parting with the development server and using :sparkles: Gunicorn :sparkles:
+- 🌱 I’m currently learning: deploying REST API on heroku with docker.
 
 [![Seth's github stats](https://github-readme-stats.vercel.app/api?username=iggy18)](https://github.com/anuraghazra/github-readme-stats)
 [![Seth's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iggy18&layout=compact)](https://github.com/iggy18/github-readme-stats)
