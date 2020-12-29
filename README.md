@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thanks  for popping by!
 
-- 🌱 I’m currently learning: [![deploying REST API on heroku with docker.](https://github.com/iggy18/working_django_rest_docker)
+- 🌱 I’m currently learning: [deploying REST API on heroku with docker.](https://github.com/iggy18/working_django_rest_docker)
 
 [![Seth's github stats](https://github-readme-stats.vercel.app/api?username=iggy18)](https://github.com/anuraghazra/github-readme-stats)
 
