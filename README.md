@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thanks  for popping by!
 
-### 🌱 I’m currently learning: [Some cryptography!](https://github.com/iggy18/cryptograph)
+### 🌱 I’m currently learning: [how to build my own portfolio with django](https://github.com/iggy18/django_portfolio)
 
 [![Seth's github stats](https://github-readme-stats.vercel.app/api?username=iggy18)](https://github.com/anuraghazra/github-readme-stats)
 
