@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thanks  for popping by!
 
-### 🌱 I’m currently learning: [Toy problems](https://github.com/iggy18/not-the-droids-youre-looking-for)
+### 🌱 I’m currently learning: [docker django postgres gunicorn food truck finder](https://github.com/Meals-on-Wheels/food_truck_locator)
 
 [![Seth's github stats](https://github-readme-stats.vercel.app/api?username=iggy18)](https://github.com/anuraghazra/github-readme-stats)
 
