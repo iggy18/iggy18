@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thanks  for popping by!
 
-### 🌱 I’m currently working in this repo: [DSA](https://github.com/iggy18/data-structures-and-algorithms)
+### 🌱 I’m currently working in this repo: [DSA](https://github.com/iggy18/data-structures-and-algorithms/tree/main/python/python)
 
 [![Seth's github stats](https://github-readme-stats.vercel.app/api?username=iggy18)](https://github.com/anuraghazra/github-readme-stats)
 
