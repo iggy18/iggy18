@@ -3,7 +3,7 @@ Thanks  for popping by!
 
 ### 🌱 I’m currently working in this repo: [DSA](https://github.com/iggy18/data-structures-and-algorithms/tree/main/python/python)
 
-[![Seth's github stats](https://github-readme-stats.vercel.app/api?username=iggy18)](https://github.com/anuraghazra/github-readme-stats)
+[![Seth's github stats](https://github-readme-stats.vercel.app/api?username=iggy18)](https://github.com/iggy18/github-readme-stats)
 
 
 [![Seth's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iggy18&layout=compact)](https://github.com/iggy18/github-readme-stats)
