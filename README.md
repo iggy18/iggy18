@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thanks  for popping by!
 
-### 🌱 I’m currently working in this repo: [DSA](https://github.com/iggy18/data-structures-and-algorithms/tree/main/python/python)
+### 🌱 I’m currently working in this repo: [Online store for AcroTrainer](https://github.com/iggy18/acrotrainer_website)
 
 [![Seth's github stats](https://github-readme-stats.vercel.app/api?username=iggy18)](https://github.com/iggy18/github-readme-stats)
 
