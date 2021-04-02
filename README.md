@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thanks  for popping by!
 
-### 🌱 I’m currently working in this repo: [a chrome extension to prevent poeple from becoming the vicitim of a refund scam](https://github.com/iggy18/scam-warning-chrome-extension)
+### 🌱 I’m currently working in this repo: [Chrome extension to prevent people from becoming the vicitim of a refund scam](https://github.com/iggy18/scam-warning-chrome-extension)
 
 [![Seth's github stats](https://github-readme-stats.vercel.app/api?username=iggy18)](https://github.com/iggy18/github-readme-stats)
 
