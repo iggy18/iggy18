@@ -3,7 +3,7 @@ Thanks  for popping by!
 
 ### 🌱 I’m currently working in this repo: [notes for making a rest API using Django Rest Framework with travis CI](https://github.com/iggy18/learning-api)
 
-[check out my scam stopper chrome extension](https://chrome.google.com/webstore/detail/scam-stopper)
+[check out my scam stopper chrome extension](https://chrome.google.com/webstore/detail/scam-stopper/dbkkaapiikcknbhcnghjifhjeiljhdha?hl=e)
 
 [![Seth's github stats](https://github-readme-stats.vercel.app/api?username=iggy18)](https://github.com/iggy18/github-readme-stats)
 
