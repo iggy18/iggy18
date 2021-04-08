@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thanks  for popping by!
 
-### 🌱 I’m currently working in this repo: [notes for making a rest API using Django Rest Framework with travis CI](https://github.com/iggy18/learning-api)
+### 🌱 I’m currently working in this repo: [writing and reading Json files](https://github.com/iggy18/fake_school_json_maker)
 
 [check out my scam stopper chrome extension](https://chrome.google.com/webstore/detail/scam-stopper/dbkkaapiikcknbhcnghjifhjeiljhdha?hl=e)
 
