@@ -3,7 +3,7 @@ Thanks  for popping by!
 
 ## check out [My Portfolio](https://www.sethmcfeeters.com)
 
-### 🌱 I’m currently working in this repo: [writing and reading Json files](https://github.com/iggy18/fake_school_json_maker)
+### 🌱 I’m currently working in this repo: [School Admin API](https://github.com/iggy18/school-api)
 
 [check out my scam stopper chrome extension](https://chrome.google.com/webstore/detail/scam-stopper/dbkkaapiikcknbhcnghjifhjeiljhdha?hl=e)
 
