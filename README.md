@@ -3,7 +3,7 @@ Thanks  for popping by!
 
 ## check out [My Portfolio](https://www.sethmcfeeters.com)
 
-### 🌱 I’m currently working in this repo: [School Admin API](https://github.com/iggy18/school-api)
+### 🌱 I’m currently working in this repo: [Blockchain stuff](https://github.com/iggy18/python-blockchain)
 
 [![Seth's github stats](https://github-readme-stats.vercel.app/api?username=iggy18)](https://github.com/iggy18/github-readme-stats)
 
