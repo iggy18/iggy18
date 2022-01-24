@@ -3,7 +3,7 @@ Thanks  for popping by!
 
 ## check out [My Portfolio](https://www.sethmcfeeters.com)
 
-### 🌱 I’m currently working in this repo: [rust todo list](https://github.com/iggy18/rust_todo)
+### 🌱 I’m currently working in this repo: [Python NFT art generator](https://github.com/iggy18/Python-NFT-Generator)
 
 [![Seth's github stats](https://github-readme-stats.vercel.app/api?username=iggy18)](https://github.com/iggy18/github-readme-stats)
 
