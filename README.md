@@ -1,19 +1,7 @@
 ### Hi there 👋
 Thanks  for popping by!
 
-## check out [My Portfolio](https://www.sethmcfeeters.com)
-
-### 🌱 I’m currently working in this repo: [Python NFT art generator](https://github.com/iggy18/better_NFT_Generator)
-
-[![Seth's github stats](https://github-readme-stats.vercel.app/api?username=iggy18)](https://github.com/iggy18/github-readme-stats)
-
-
-[![Seth's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iggy18&layout=compact)](https://github.com/iggy18/github-readme-stats)
-
-
-Social media: add me!
-
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/iggy18/?hl=en)
+social
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/seth-mcfeeters/)
 
 What I know so far:
@@ -23,7 +11,3 @@ What I know so far:
 what I'm looking forward to learning:
 
 <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /><img src ="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /><img src ="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /><img src ="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-
-getting smarter every day on Codewars:
-
-<img src = "https://www.codewars.com/users/iggy18/badges/large" />
